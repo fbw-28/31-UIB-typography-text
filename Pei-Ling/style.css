@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');
+
+html {
+    font-family: 'Kalam', cursive;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+li {
+    font-weight: lighter;
+    color: rgb(117, 102, 131);
+}
+
+.heading {
+    text-transform: uppercase;
+    text-shadow: 2px 4px 3px;
+    color: rgb(255, 125, 212);
+}
+
+.note {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.todo-item {
+    text-decoration: line-through;
+}
