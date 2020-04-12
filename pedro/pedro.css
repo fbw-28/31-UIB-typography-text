@@ -1,0 +1,26 @@
+* {
+
+    font-family: 'Anton', sans-serif;
+    font-family: 'Baloo Paaji 2', cursive;
+    margin-left: 15px;
+ } 
+
+h1 {
+    text-decoration: underline
+}
+
+.heading {
+    text-shadow: 1px 2px 1px rgba(184, 17, 17, 0.6);
+ }
+
+.nota {
+    font-weight: bold;
+}
+
+li {
+    font-weight: lighter;
+}
+
+.todo-item {
+    text-decoration: line-through;
+}
